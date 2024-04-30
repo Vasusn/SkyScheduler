@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047964121219",
+    "project_id": "skyscheduler-477be",
+    "storage_bucket": "skyscheduler-477be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047964121219:android:849b791542cc92f41e83b6",
+        "android_client_info": {
+          "package_name": "com.example.skyscheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBef6dCP0NC5VrPHJzGkE0kws2TgjusNw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
